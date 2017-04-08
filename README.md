@@ -20,11 +20,13 @@ Using the find-my-phone library and AWS lambda, we can ask Alexa the location/di
  • https://developer.amazon.com/edw/home.html#/
 
 # Environment Variables in Lambda
- • name (icloud email/username)
- • pass (icloud password)
- • device_name (device name)
- • my_latitude (used for distance measurement)
- • my_longtitude (used for distance measurement)
+| Env Variable  | Description     |
+| ------------- |:---------------:|
+| name          | icloud username |
+| pass          | icloud password | 
+| device_name   | mobile device   | 
+| my_latitude   | your location   |
+| my_longtitude | your location   |
 
 # Alexa Settings
 ## Intent Schema
