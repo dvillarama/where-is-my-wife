@@ -15,9 +15,12 @@ A Node module to interact with iCloud/Alex
 
 Using the find-my-phone library and AWS lambda, we can ask Alexa the location/distance of an apple device.
 
+So you should be able to go, 'Alex, ask &lt;your skill app name&gt; where is my wife?' and 'Alexa, ask &lt;your skill app name&gt; how far is she from me?'
+
 # Links
- • https://console.aws.amazon.com/lambda
- • https://developer.amazon.com/edw/home.html#/
+
+https://console.aws.amazon.com/lambda - setup your lambda function here
+https://developer.amazon.com/edw/home.html#/ - setup your alexa skill here
 
 # Environment Variables in Lambda
 | Env Variable  | Description     |
