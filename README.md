@@ -40,7 +40,8 @@ Using the find-my-phone library and AWS lambda, we can ask Alexa the location/di
 "intent": "AMAZON.HelpIntent"
 }
 ]
-}```
+}
+```
 
 ## Sample Utterances
 ```
