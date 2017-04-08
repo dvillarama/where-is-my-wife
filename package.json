@@ -1,0 +1,25 @@
+{
+  "name": "where-is-my-wife",
+  "version": "0.0.1",
+  "description": "Ask Alexa to figure out where my is my wife and how far is she from home.",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8",
+    "dotenv": "^4.0.0",
+    "request": "^2.57.0",
+    "tough-cookie": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alex",
+    "icloud"
+  ],
+  "author": "David Villarama",
+  "license": "MIT"
+}
