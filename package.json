@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/dvillarama/where-is-my-wife"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
